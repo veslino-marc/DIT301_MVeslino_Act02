@@ -1,3 +1,4 @@
+# DIT3-1-MarcVeslino-Act02
 1. What did you observe about the app lifecycle when switching between screens or minimizing the app?
    I observed that the app doesn’t completely close when I switch screens or minimize it. Instead, the activity goes through different states like paused or stopped, and when I return, it can resume from where I left off.
 
